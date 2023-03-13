@@ -104,7 +104,7 @@ Public Class Form1
     End Sub
 
     Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
-        MessageBox.Show("Version : Beta 1 " + vbCrLf + "© 2023 Pavich Komansil", "About")
+        MessageBox.Show("Version : Beta 2 " + vbCrLf + "© 2023 Pavich Komansil", "About")
     End Sub
 
     Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
